@@ -11,15 +11,20 @@ article {
 #shell_img {
     display: block;
     margin-right: auto;
+    margin-left: 150px;
     width: 30%;
-    padding: 10px;
+    padding: 30px;
 }
 
 #a_shell {
     width:75%;
     float: left;
-    margin-left: 50px;
+    margin-left: 250px;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+    padding: 20px;
 }
+
 
 #stroke_img {
     display: block;
@@ -27,6 +32,12 @@ article {
     margin-left: auto;
     width: 40%;
     padding: 20px;
+}
+
+#rowing_gif {
+    display:block;
+    margin:auto;
+    padding:20px;
 }
 
 .header {
@@ -37,14 +48,9 @@ article {
 .content {
     width: 80%;
     border: 4px;
-    text-align: center;
+    text-align: left;
     margin-right: auto;
     margin-left: auto;
     padding: 20px;
 }
 
-#rowing_gif {
-    display:block;
-    margin:auto;
-    padding:20px;
-}
