@@ -37,4 +37,14 @@ article {
 .content {
     width: 80%;
     border: 4px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+#rowing_gif {
+    display:block;
+    margin:auto;
+    padding:20px;
 }
